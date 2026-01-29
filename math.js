@@ -14,3 +14,6 @@ function isOdd(n){
 function half(n){
   return n / 2;
 }
+function multiply(n,x){
+  return n * x;
+}
