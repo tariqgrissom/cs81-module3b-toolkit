@@ -11,3 +11,6 @@ function isEven(n){
 function isOdd(n){
   return n % 2 == 1;
 }
+function half(n){
+  return n / 2;
+}
