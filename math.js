@@ -5,3 +5,6 @@ function double(n){
 function square(n){
   return n * n;
 }
+function isEven(n){
+  return n % 2 == 0;
+}
